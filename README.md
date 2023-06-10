@@ -7,7 +7,7 @@ This project aims to analyze the relationship between cigarette consumption and 
 The project is organized as follows:
 
 datas.xls: Excel files containing the data for housing type, education status, employment status, number of people in the household, size of the household, prices of the cigarette per year and month, etc.
-cs210_Project_DataVisualization.ipynb: Jupyter Notebook containing the data analysis and visualization code.
+cs210_Project_Data_Analysis_and_DataVisualization.ipynb: Jupyter Notebook containing the data analysis and visualization code.
 CS-210_Project_ML.ipynb: Jupyter Notebook containing the data cleaning and the machine learning code.
 Data Cleaning and Preprocessing
 The data cleaning process involves the following steps:
@@ -22,7 +22,7 @@ Data Visualization
 The visualization process involves using the seaborn and matplotlib libraries to create visualizations that provide insights into the data. The visualizations include:
 
 Describing and time series plotting for every data.
-The code for data visualization can be found in the cs210_Project_DataVisualization.ipynb notebook.
+The code for data visualization can be found in the cs210_Project_Data_Analysis_and_DataVisualization.ipynb notebook.
 
 Machine Learning
 The machine learning phase involves building predictive models using the cleaned and combined data. The steps include:
