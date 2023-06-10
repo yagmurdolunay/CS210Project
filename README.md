@@ -21,10 +21,8 @@ The data cleaning process involves the following steps:
 Data Visualization
 The visualization process involves using the seaborn and matplotlib libraries to create visualizations that provide insights into the data. The visualizations include:
 
-Pairwise scatter plots to explore relationships between variables.
-Box plots to compare cigarette prices across different housing types.
-Bar plots to analyze the distribution of education status within each housing type.
-The code for data visualization can be found in the visualization.ipynb notebook.
+Describing and time series plotting for every data.
+The code for data visualization can be found in the cs210_Project_DataVisualization.ipynb notebook.
 
 Machine Learning
 The machine learning phase involves building predictive models using the cleaned and combined data. The steps include:
