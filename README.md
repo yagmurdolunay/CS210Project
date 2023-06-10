@@ -1,12 +1,12 @@
 # CS210Project
 This repository contains data visualization, data cleaning and the machine learning part of the data.
-Cigarette Consumption Analysis - Socio-economic Factors
+# Cigarette Consumption Analysis - Socio-economic Factors
 This project aims to analyze the relationship between cigarette consumption and socio-economic factors such as housing type, education status, and employment. The project involves data cleaning, visualization, and machine learning techniques to gain insights and build predictive models.
 
 # Project Structure
 The project is organized as follows:
 
-datas.xls: Excel files containing the data for housing type, education status, employment status, number of people in the household, size of the household, prices of the cigarette per year and month, etc.
+cs210Project_Data: This folder contains Excel files (.xls) containing the data for housing type, education status, employment status, number of people in the household, size of the household, prices of the cigarette per year and month, etc.
 cs210_Project_Data_Analysis_and_DataVisualization.ipynb: Jupyter Notebook containing the data analysis and visualization code.
 CS-210_Project_ML.ipynb: Jupyter Notebook containing the data cleaning and the machine learning code.
 Data Cleaning and Preprocessing
