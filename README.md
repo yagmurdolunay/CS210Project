@@ -47,8 +47,9 @@ Conclusion
 This project provides insights into the relationship between cigarette consumption and socio-economic conditions. By combining the housing type, education status, and employment datasets, we were able to perform data analysis, visualization, and machine learning tasks. The results contribute to a better understanding of the impact of socio-economic conditions on cigarette consumption.
 
 Feel free to reach out if you have any questions or need further assistance!
-Deniz Durmuşoğlu			 28972
-Berkant Umut Özbölük	29577
-Gülnihal Seda Erdemli 29057
-Serra Yakupoğlu       31106  
-Yağmur Dolunay        29323
+Us and our Responsibilities:
+Deniz Durmuşoğlu			 28972    for finding the data 
+Berkant Umut Özbölük	29577   for finding the data and contribution for the training data
+Gülnihal Seda Erdemli 29057  for visualization
+Serra Yakupoğlu       31106  for training and testing the data
+Yağmur Dolunay        29323  for training and testing the data
